@@ -54,6 +54,7 @@ eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI
 <img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/36162ef8-10b9-4833-8e01-bfb03c601e0a" />
 
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/31387ebc-158d-4273-8043-3a558d52c7f7" />
 
 
 
