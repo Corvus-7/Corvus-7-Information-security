@@ -44,25 +44,25 @@ SQL-инъекция – одна из наиболее распростране
 
 
 <img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/28774b5f-3a36-4399-83c2-9d48cfdf7209" />
-{
-  "status": "success",
-  "data": {
-    "id": 1,
-    "username": "",
-    "email": "admin@juice-sh.op",
-    "password": "0192023a7bbd73250516f069df18b500",
-    "role": "admin",
-    "deviceToken": "",
-    "lastLoginIp": "",
-    "profileImage": "assets/public/images/uploads/defaultAdmin.png",
-    "topSecret": "",
-    "isActive": true,
-    "createdAt": "2025-11-21 05:34:36.333 +00:00",
-    "updatedAt": "2025-11-21 05:34:36.333 +00:00",
-    "deletedAt": null
-  },
-  "iat": 1763705989
-}
+
+Исходя из анализа кода:
+* status: success
+* data:
+    * id: 1,
+    * username: ""
+    * email: admin@juice-sh.op
+    * password: 0192023a7bbd73250516f069df18b500
+    * role: admin
+    * deviceToken: ""
+    * lastLoginIp: ""
+    * profileImage: assets/public/images/uploads/defaultAdmin.png
+    * topSecret: ""
+    * isActive: true
+    * createdAt: 2025-11-21 05:34:36.333 +00:00
+    * updatedAt: 2025-11-21 05:34:36.333 +00:00
+    * deletedAt: null
+* iat: 1763705989
+
 <img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/36162ef8-10b9-4833-8e01-bfb03c601e0a" />
 
 
