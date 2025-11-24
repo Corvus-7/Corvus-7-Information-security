@@ -1,5 +1,4 @@
 ## <p align="center">Задание 1. SQL-injection и логин с административными правами
-</p>
 
 <img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/a4a21166-33e5-44d4-9c9b-bcd343fc34a0" />
 
@@ -39,8 +38,6 @@ SQL-инъекция – одна из наиболее распростране
 
 <img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/3780a869-f251-4634-84de-ddcf34a104b0" />
 
-
-
 <img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/28774b5f-3a36-4399-83c2-9d48cfdf7209" />
 
 Исходя из анализа кода:
@@ -69,8 +66,10 @@ SQL-инъекция – одна из наиболее распростране
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c5cb6240-81c1-4a6d-8c06-a57888c5e8ae" />
 
 
+<br><br><br><br>
 ## <p align="center">Задание 3. Чужая корзина
 
+<br><br><br><br>
 ## <p align="center">Задание 4. XSS-инъекция
 
 
