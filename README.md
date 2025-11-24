@@ -40,6 +40,8 @@ SQL-инъекция – одна из наиболее распростране
 
 <img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/28774b5f-3a36-4399-83c2-9d48cfdf7209" />
 
+<br>
+
 Исходя из анализа кода:
 * status: success
 * data:
@@ -57,6 +59,8 @@ SQL-инъекция – одна из наиболее распростране
     * updatedAt: 2025-11-21 05:34:36.333 +00:00
     * deletedAt: null
 * iat: 1763705989
+
+<br>
 
 <img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/36162ef8-10b9-4833-8e01-bfb03c601e0a" />
 
