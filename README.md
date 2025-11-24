@@ -40,10 +40,7 @@ SQL-инъекция – одна из наиболее распростране
 ## <p align="center">Задание 2. Узнайте пароль администратора
 
 <img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/3780a869-f251-4634-84de-ddcf34a104b0" />
-<img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/5078354a-140e-4cb4-af2d-9b361b29effb" />
-<img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/be33b036-888f-485d-9e4d-4e04bc3e475f" />
 
-eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdGF0dXMiOiJzdWNjZXNzIiwiZGF0YSI6eyJpZCI6MSwidXNlcm5hbWUiOiIiLCJlbWFpbCI6ImFkbWluQGp1aWNlLXNoLm9wIiwicGFzc3dvcmQiOiIwMTkyMDIzYTdiYmQ3MzI1MDUxNmYwNjlkZjE4YjUwMCIsInJvbGUiOiJhZG1pbiIsImRlbHV4ZVRva2VuIjoiIiwibGFzdExvZ2luSXAiOiIiLCJwcm9maWxlSW1hZ2UiOiJhc3NldHMvcHVibGljL2ltYWdlcy91cGxvYWRzL2RlZmF1bHRBZG1pbi5wbmciLCJ0b3RwU2VjcmV0IjoiIiwiaXNBY3RpdmUiOnRydWUsImNyZWF0ZWRBdCI6IjIwMjUtMTEtMjEgMDU6MzQ6MzYuMzMzICswMDowMCIsInVwZGF0ZWRBdCI6IjIwMjUtMTEtMjEgMDU6MzQ6MzYuMzMzICswMDowMCIsImRlbGV0ZWRBdCI6bnVsbH0sImlhdCI6MTc2MzcwNTk4OX0.khcp5ic31iKbpemqUiI-UZ_WZmy21_J_A0ANmxdkGm5E24fNAfzwHvlclII1tSJ_eSbdTKr49tvwHKMrXl-qoVdYEyUjjXZbzgGBkwNOSwjqR-Mr3yZTILLLiHJeMSwEa3Et0Wl4kUihPOGeZHNL3zAT7hEOhRWyTw5sCdeFAZ0
 
 
 <img width="1920" height="1080" alt="изображение" src="https://github.com/user-attachments/assets/28774b5f-3a36-4399-83c2-9d48cfdf7209" />
